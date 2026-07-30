@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there, I'm franCaamanho 👋
 
-<!--
-**franCaamanho/franCaamanho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | Lifelong Learner 🚀
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer passionate about building scalable, maintainable, and user-focused applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving real-world problems through software, learning new technologies, and continuously improving both my technical and soft skills.
+
+## 💻 Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend
+- Java
+- Node.js
+- Express
+
+### Database
+- SQL Server
+- PostgreSQL
+- MongoDB
+
+### DevOps & Cloud
+- Docker
+- Git
